@@ -95,8 +95,8 @@ fuckCors();</pre
 
         <p>
           <small>
-            Site By <a href="https://lgc2333.top">lgc2333</a> |
-            <a href="https://github.com/lgc2333/fuck-cors">GitHub</a>
+            Site By <a href="youli.icu">小夏春美</a> |
+            <a href="https://github.com/xiao7hxh/fuck-cors">GitHub</a>
           </small>
         </p>
       </div>
